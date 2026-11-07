@@ -1,3 +1,7 @@
+## v1.35.0 - 2026-11-07
+### Miscellaneous
+- d3c626a build(deps): bump bridgecrewio/checkov-action ([#102](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/pull/102))
+
 ## v1.34.0 - 2026-09-01
 ### Miscellaneous
 - 4f79921 build(deps): bump actions/checkout from 6 to 7 ([#92](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/pull/92))
