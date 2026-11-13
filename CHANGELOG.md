@@ -1,3 +1,7 @@
+## v1.36.0 - 2026-11-13
+### Miscellaneous
+- ff8043c build(deps): bump bridgecrewio/checkov-action ([#103](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/pull/103))
+
 ## v1.35.0 - 2026-11-07
 ### Miscellaneous
 - d3c626a build(deps): bump bridgecrewio/checkov-action ([#102](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/pull/102))
