@@ -1,3 +1,7 @@
+## v1.37.0 - 2026-11-16
+### Miscellaneous
+- f1e79e6 ci: запуск semver-джобы только при пуше в main ([#104](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/pull/104))
+
 ## v1.36.0 - 2026-11-13
 ### Miscellaneous
 - ff8043c build(deps): bump bridgecrewio/checkov-action ([#103](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/pull/103))
