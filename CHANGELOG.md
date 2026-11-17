@@ -1,3 +1,7 @@
+## v1.38.0 - 2026-11-17
+### Miscellaneous
+- 6e29c56 build(deps): bump bridgecrewio/checkov-action ([#105](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/pull/105))
+
 ## v1.37.0 - 2026-11-16
 ### Miscellaneous
 - f1e79e6 ci: запуск semver-джобы только при пуше в main ([#104](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/pull/104))
